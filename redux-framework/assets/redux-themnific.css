@@ -1,0 +1,7 @@
+.redux-main .color-transparency-check,
+.redux-main .redux-typography-container .select_wrapper.typography-align{ display:none !important;}
+.redux-container{ overflow:visible !important;}
+.rAds,
+.redux-message.redux-notice,
+.redux-message,
+.redux-notice{ display:none !important; visibility:hidden}
